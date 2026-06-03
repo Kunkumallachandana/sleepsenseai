@@ -1,4 +1,28 @@
 # 🌙 SleepSense AI
+## 🔗 Live Demo
+
+https://sleepsenseai.vercel.app
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home](screenshots/homepage.png)
+
+### Sleep Analysis Form
+
+![Form](screenshots/analysis-form.png)
+
+### Results Dashboard
+
+![Results](screenshots/results-page.png)
+
+> AI-powered sleep quality analysis — enter your habits, get your score.
+
+![SleepSense AI](https://img.shields.io/badge/SleepSense-AI-7c3aed?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
+![Flask](https://img.shields.io/badge/Flask-3.0-blue?style=flat-square&logo=flask)
+![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38bdf8?style=flat-square&logo=tailwindcss)
 
 > AI-powered sleep quality analysis — enter your habits, get your score.
 
